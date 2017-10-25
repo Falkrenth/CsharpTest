@@ -1,6 +1,8 @@
 # CsharpTest
 C sharp test project
 
+First commit test
+
 Informations générales:
 Idées générales :
 choisir un logo a exporter ? (le glisser dans le dossier  ?)
@@ -22,3 +24,4 @@ Pour charger les combobox au lancement de la page dans le load :
                 }
 
             System.Windows.Forms.Help.ShowHelp(this, @"C:\Users\me\Documents\Visual Studio 2017\Projects\myProject\packages\Help.chm", HelpNavigator.Topic, "Recipe.html#Hpptol");
+
