@@ -11,3 +11,10 @@ Modification du format dans le logiciel (comme dans les exports)
 https://www.simple-talk.com/sql/database-administration/pop-rivetts-sql-server-faq-no.5-pop-on-the-audit-trail/
 Fonctionne pour la table mesuredata
 Repasser sur les profiles pour modifier les droits (vrai nom / en ajouter) Bloquer chaque onglet recipe / bloquer note etc
+
+Pour charger les combobox au lancement de la page dans le load : 
+                if (cbo_reference.Items.Count > 0)
+                {
+                    cbo_reference.SelectedIndex = 0;
+                    cbo_reference_SelectedIndexChanged(sender, e);
+                }
