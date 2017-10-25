@@ -12,9 +12,12 @@ https://www.simple-talk.com/sql/database-administration/pop-rivetts-sql-server-f
 Fonctionne pour la table mesuredata
 Repasser sur les profiles pour modifier les droits (vrai nom / en ajouter) Bloquer chaque onglet recipe / bloquer note etc
 
+
 Pour charger les combobox au lancement de la page dans le load : 
                 if (cbo_reference.Items.Count > 0)
                 {
                     cbo_reference.SelectedIndex = 0;
                     cbo_reference_SelectedIndexChanged(sender, e);
                 }
+
+            System.Windows.Forms.Help.ShowHelp(this, @"C:\Users\me\Documents\Visual Studio 2017\Projects\myProject\packages\Help.chm", HelpNavigator.Topic, "Recipe.html#Hpptol");
