@@ -19,4 +19,5 @@ Pour charger les combobox au lancement de la page dans le load :
                     cbo_reference.SelectedIndex = 0;
                     cbo_reference_SelectedIndexChanged(sender, e);
                 }
+
             System.Windows.Forms.Help.ShowHelp(this, @"C:\Users\me\Documents\Visual Studio 2017\Projects\myProject\packages\Help.chm", HelpNavigator.Topic, "Recipe.html#Hpptol");
