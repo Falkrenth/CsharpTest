@@ -10,4 +10,4 @@ Modification du format dans le logiciel (comme dans les exports)
 
 https://www.simple-talk.com/sql/database-administration/pop-rivetts-sql-server-faq-no.5-pop-on-the-audit-trail/
 Fonctionne pour la table mesuredata
-Repasser sur les profiles pour modifier les droits (vrai nom / en ajouter) Bloquer chaque onglet recipe / bloquer note etc
+Repasser sur les profiles pour modifier les droits (vrai nom / en ajouter) Bloquer chaque onglet recipe / bloquer note
